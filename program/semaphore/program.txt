@@ -1,0 +1,8 @@
+ 1)
+write w1.c program to write a to z into data file.
+write w2.c program to write A to Z into data file.
+now sync. them using semaphore.
+
+2) alternative copy. other things is same like pg-1.
+a1 and a2
+

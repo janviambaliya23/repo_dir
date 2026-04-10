@@ -1,0 +1,6 @@
+output into file 1
+second line in file 1
+output into file 1
+second line in file 1
+output into file 1
+second line in file 1

@@ -1,0 +1,3 @@
+output in file 3
+second line in file 3
+
